@@ -1,0 +1,42 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "https://upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手手绘",
+			"imgUrl": "https://upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "我有一壶酒，足以慰风尘",
+			"desc": "生命，是一树花开，或安静，或热烈， 或寂寞，或璀璨 ——余秋雨 攀过高山 在大山的巍峨面前，身体在攀缘中感受一种打磨。推攘的肌腱阵痛...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/1119482-e031ae7619b2fade.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 2,
+			"title": "一篇文章，让你明白“健身”是非做不可的事！",
+			"desc": "生命，是一树花开，或安静，或热烈， 或寂寞，或璀璨 ——余秋雨 攀过高山 在大山的巍峨面前，身体在攀缘中感受一种打磨。推攘的肌腱阵痛...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/1119482-e031ae7619b2fade.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 3,
+			"title": "一篇文章，让你明白“健身”是非做不可的事！",
+			"desc": "生命，是一树花开，或安静，或热烈， 或寂寞，或璀璨 ——余秋雨 攀过高山 在大山的巍峨面前，身体在攀缘中感受一种打磨。推攘的肌腱阵痛...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/1119482-e031ae7619b2fade.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 4,
+			"title": "一篇文章，让你明白“健身”是非做不可的事！",
+			"desc": "生命，是一树花开，或安静，或热烈， 或寂寞，或璀璨 ——余秋雨 攀过高山 在大山的巍峨面前，身体在攀缘中感受一种打磨。推攘的肌腱阵痛...",
+			"imgUrl": "https://upload-images.jianshu.io/upload_images/1119482-e031ae7619b2fade.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+		}, {
+			"id": 2,
+			"imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}]
+	}
+}
